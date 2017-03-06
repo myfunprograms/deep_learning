@@ -1,0 +1,5 @@
+.DS_Store
+.playground.ipynb
+**/*.ipynb_checkpoints/
+**/__pycache__i/
+**/*.p
