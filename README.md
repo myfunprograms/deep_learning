@@ -14,4 +14,6 @@ For example,
 ### Projects
 Project 1. First nerual network
 <br>
-Project 2. Image classification 
+Project 2. Image classification (CNN) 
+<br>
+Project 3. Generate TV script (Embed, RNN)
