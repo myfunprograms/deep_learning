@@ -16,4 +16,6 @@ Project 1. First nerual network
 <br>
 Project 2. Image classification (CNN) 
 <br>
-Project 3. Generate TV script (Embed, RNN)
+Project 3. Generate TV script (Embedding, RNN)
+<br>
+Project 4. Language translation (Seq2Seq, RNN)
