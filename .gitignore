@@ -6,3 +6,4 @@
 **/*.gz
 **/save.*
 **/checkpoint/
+**/checkpoints/
