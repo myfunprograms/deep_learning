@@ -19,3 +19,5 @@ Project 2. Image classification (CNN)
 Project 3. Generate TV script (Embedding, RNN)
 <br>
 Project 4. Language translation (Seq2Seq, RNN)
+<br>
+Project 5. Face generation (CNN, GAN)
